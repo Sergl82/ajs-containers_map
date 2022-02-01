@@ -1,1 +1,1 @@
-[![CircleCI](https://circleci.com/gh/Sergl82/ajs-containers_map/tree/main.svg?style=svg)](https://circleci.com/gh/Sergl82/ajs-containers_map/tree/main)
+[![Build status](https://ci.appveyor.com/api/projects/status/wiruleay8i2kggtq?svg=true)](https://ci.appveyor.com/project/Sergl82/ajs-containers-map)
